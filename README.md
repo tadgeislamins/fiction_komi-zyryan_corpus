@@ -6,8 +6,8 @@ A link to the Yandex cloud storage with embeddings and preprocessed texts: https
 * "komi_fiction_text_corpus.txt" - txt file with preprocessed texts, each text on the new line
 * svd_dictionary.npy - SVD dictionary trained on preprocessed corpus texts
 * cbow_dictionary.npy - CBoW dictionary trained on preprocessed corpus texts
-* svd_dataset.npy - SVD 1grams dataset
-* cbow_dataset.npy - CBoW 1grams dataset
+* svd_dataset.npy - SVD 1grams dataset with embeddings
+* cbow_dataset.npy - CBoW 1grams dataset with embeddings
 
 **Texts source**: https://komikyv.org/
 
