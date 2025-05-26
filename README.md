@@ -11,4 +11,4 @@ A link to the Yandex cloud storage with embeddings and preprocessed texts: https
 
 **Texts source**: https://komikyv.org/
 
-**The morphological analyzer utilized**: https://github.com/timarkh/uniparser-grammar-komi-zyrian
+**Morphological analyzer utilized**: https://github.com/timarkh/uniparser-grammar-komi-zyrian
